@@ -17,7 +17,6 @@
     "darwin"
   ],
   "author": "Marc Binder <marcandrebinder@gmail.com>",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MrBoolean/which-osx/issues"
   },
@@ -37,5 +36,6 @@
   "dependencies": {
     "lodash.clone": "^3.0.3",
     "semver": "^5.0.3"
-  }
+  },
+  "license": "MIT"
 }
