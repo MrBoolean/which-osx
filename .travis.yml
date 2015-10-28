@@ -1,7 +1,9 @@
 language: 'node_js'
 node_js:
+  - '0.8'
   - '0.10'
   - '0.12'
   - '4.0.0'
-  - 'iojs-v2.0.0'
+  - '4.1.0'
+  - '4.1.2'
 script: 'gulp && gulp codeclimate'
