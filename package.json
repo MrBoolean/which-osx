@@ -28,6 +28,7 @@
     "eslint-config-airbnb": "^0.1.0",
     "eslint-plugin-react": "^3.6.3",
     "gulp": "^3.9.0",
+    "gulp-codeclimate-reporter": "^1.1.0",
     "gulp-eslint": "^1.0.0",
     "gulp-istanbul": "^0.10.2",
     "gulp-mocha": "^2.1.3",

@@ -1,4 +1,7 @@
-# which-osx
+which-osx
+=========
+[![Code Climate](https://codeclimate.com/github/MrBoolean/which-osx/badges/gpa.svg)](https://codeclimate.com/github/MrBoolean/which-osx) [![Test Coverage](https://codeclimate.com/github/MrBoolean/which-osx/badges/coverage.svg)](https://codeclimate.com/github/MrBoolean/which-osx) [![Build Status](https://travis-ci.org/MrBoolean/which-osx.svg?branch=master)](https://travis-ci.org/MrBoolean/which-osx) [![Dependency Status](https://gemnasium.com/MrBoolean/which-osx.svg)](https://gemnasium.com/MrBoolean/which-osx) [![npm](https://img.shields.io/npm/v/which-osx.svg)](https://npmjs.org/which-osx)
+
 A simple module to determine the osx version.
 
 # Install
