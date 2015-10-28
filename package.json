@@ -1,0 +1,25 @@
+{
+  "name": "which-osx",
+  "version": "1.0.0",
+  "description": "A simple module to determine the osx version.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrBoolean/which-osx.git"
+  },
+  "keywords": [
+    "osx",
+    "version",
+    "determine",
+    "darwin"
+  ],
+  "author": "Marc Binder <marcandrebinder@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrBoolean/which-osx/issues"
+  },
+  "homepage": "https://github.com/MrBoolean/which-osx#readme"
+}
